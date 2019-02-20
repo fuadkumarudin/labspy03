@@ -12,4 +12,7 @@ Soal latihan 1 :
 
 4.Gunakan fungsi random() yang dapat diimport terlebih dahulu
 
+# ! [Github Logo](a1.png) <h2>
+
+
  
