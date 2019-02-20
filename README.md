@@ -12,7 +12,9 @@ Soal latihan 1 :
 
 4.Gunakan fungsi random() yang dapat diimport terlebih dahulu
 
-![Github Logo](/images/a1.png)
+![Github Logo](/a1/logo.png)
+
+
 
 
 
