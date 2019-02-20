@@ -14,7 +14,8 @@ Soal latihan 1 :
 
 syntax sebagai berikut
 
-![Github Logo](/a1.png/logo.png)
+![Github Logo](/a.png/logo.png)
+
 
 
 
