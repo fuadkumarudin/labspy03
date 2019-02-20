@@ -44,6 +44,36 @@ Soal latihan 2 :
 Membuat program untuk menampilkan bilangan terbesar dari n buah data 
 yang diinputkan.Masukkan angka 0 untuk berhenti.
 
+Algoritma latihan 2:
+
+Membuat program untuk menampilkan bilangan terbesar dari n buah data 
+yang diinputkan.Masukkan angka 0 untuk berhenti
+
+1.Mulai
+
+2.Mencetak "latihan 2"
+
+3.Mencetak "menampilkan bilangan, berhenti ketika bilangan 0, 
+menampilkan bilangan terbesar"
+
+4.integer max = 0 
+
+5.Menggunakan fungsi perulangan while true, hingga menampilkan 
+perulangan sampai batas tertentu. 
+
+6.Memasukan bilangan integer pada "a"
+
+7.Menggunakan fungsi if jika max kurang dari nilai a, maka max sama 
+dengan a 
+
+8.Mengunakan fungsi if jika nilai a adalah 0 maka fungsi break artinya 
+perulangan berhenti jika menulis nilai 0.
+
+9.Mencetak nilai paling terbesarv setelah break, sehingga menampilkan 
+nilai terbesar diantara bilangan tersebut dalam perulangan.
+
+10.selesai
+
 syntax latihan 2 sebagai berikut :
 
 ![codelatihan2](https://user-images.githubusercontent.com/45659243/53075201-2b67ec00-351f-11e9-9b63-a89e49cdd5f5.png)
