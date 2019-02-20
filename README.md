@@ -12,6 +12,23 @@ Soal latihan 1 :
 
 4.Gunakan fungsi random() yang dapat diimport terlebih dahulu
 
+Algoritma latihan1 :
+
+Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi 
+pada saat runtime.
+
+1.Memasukan/ import fungsi RANDOM terlebih dahulu
+
+2.Deklarasi integer , masukkan jumlah n :
+
+3.Memasukan deskripsi kombinasi for untuk menyelesaikannya.
+
+4.Memasukan nilai jumlah (n) : 5
+
+5.Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
+
+6.Selesai
+
 syntax latihan 1 sebagai berikut :
 
 ![a](https://user-images.githubusercontent.com/45659243/53075164-125f3b00-351f-11e9-8615-660c6f5bd96a.png)
