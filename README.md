@@ -12,6 +12,8 @@ Soal latihan 1 :
 
 4.Gunakan fungsi random() yang dapat diimport terlebih dahulu
 
+syntax sebagai berikut
+
 ![Github Logo](/a1/logo.png)
 
 
